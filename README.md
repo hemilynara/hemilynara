@@ -7,7 +7,7 @@
 
 
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/hemilynara">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemilynara&title_color=FFFFFF&icon_color=8470FF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
