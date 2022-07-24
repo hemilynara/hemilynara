@@ -1,6 +1,10 @@
-### Hi there 👋
+###  ![MyGIF](https://user-images.githubusercontent.com/109034626/180629285-cb1b7c02-5a32-406e-8320-7703ea1f1bfc.gif) Hi, guys! I'm Hemily Nara
 
 
+
+
+<BR>
+<BR>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +16,3 @@
 - ⚡ Fun fact: ...
 
  ![Snake animation](https://github.com/hemilynara/hemilynara/blob/output/github-contribution-grid-snake.svg)
- 
- 
