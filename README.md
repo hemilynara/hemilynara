@@ -1,6 +1,6 @@
 ### <div align="left"> Hi, guys! I'm Hemily Nara ![MyGIF](https://user-images.githubusercontent.com/109034626/180629285-cb1b7c02-5a32-406e-8320-7703ea1f1bfc.gif) 
 <div> 
- <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img height="20" width="85" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img height="25.5" width="85" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 - WEB development student at SENAC
