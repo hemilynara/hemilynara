@@ -4,5 +4,6 @@
 </div>
 
 - Programming Student at Faculdade de Informática e Administração Paulista (FIAP).
+- Passionate about back-end development
 
 
