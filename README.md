@@ -1,9 +1,9 @@
-### Hi, guys! I'm Hemily Nara 
-<div> 
- <a href="https://www.linkedin.com/in/hemilynara/" target="_blank"><img height="25" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-- Programming Student at Faculdade de Informática e Administração Paulista (FIAP).
-- Passionate about back-end development
-
-
+<b>Hemily Nara</b>
+Full Stack student & passionate about Back-End development
+<br>
+<br>
+<b>About Me</b>
+<br>
+- I'm currently studying Systems Analysis and Development at FIAP
+- I'm passionate about back-end development
+- I'm studying languages like Python, C#, Java, JavaScript, HTML, CSS, and Visual Basic
