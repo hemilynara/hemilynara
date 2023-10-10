@@ -5,7 +5,6 @@ Hello! 👋 I'm Hemily Nara, a Full Stack student with a strong passion for Back
 <b>About Me</b>
 <br>
 - I'm currently studying Systems Analysis and Development at FIAP
-- I work with data and indicators at Cielo
 - I'm passionate about back-end development
 - I'm studying languages like Python, C#, Java, JavaScript, HTML and CSS.
 
